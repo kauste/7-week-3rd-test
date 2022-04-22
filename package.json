@@ -1,0 +1,13 @@
+{
+  "name": "9-week-3rd-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev":"dead-server --port=9999 --host=localhost ",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Rugile",
+  "license": "ISC"
+}
